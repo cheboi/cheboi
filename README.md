@@ -30,5 +30,3 @@ Connect with me here -
 - 🌱 Learning all about:
  
 - ⚡️ Fun fact: I'm a huge fan of Jazz Music.
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cheboi&theme=dark)](https://git.io/streak-stats)
