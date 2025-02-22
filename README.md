@@ -3,7 +3,7 @@
 I love to talk on trending ⚡ technology ⚡.
 Connect with me here -
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moses-cheboy/)](https://twitter.com/moses_cheboy)
+[![x Badge](https://img.shields.io/badge/-x-black?style=plastic&logo=x&logoColor=white&link=https://x.com/moses-cheboy/)](https://x.com/moses_cheboy)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moses-cheboi/)](https://www.linkedin.com/in/moses-cheboi/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@moscheb96/)](https://medium.com/@moscheb96)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:moscheb96@gmail.com)](mailto:moscheb96@gmail.com)
